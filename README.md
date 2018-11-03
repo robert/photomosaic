@@ -1,6 +1,6 @@
 # Programming Projects for Advanced Beginners #4: Photomosaics
 
-Example code for [this blog post](TODO).
+Example code for [Programming Projects for Advanced Beginners #4: Photomosaics](https://robertheaton.com/2018/11/03/programming-project-4-photomosaics).
 
 ## To run
 
